@@ -1,5 +1,5 @@
-## Hello there!
-### Welcome to my GitHub
+### Hello there!
+#### Welcome to my GitHub
 
 Con experiencia en Gestión de Operaciones y un sólido historial en la optimización de procesos y liderazgo de equipos, ahora estoy canalizando mis habilidades analíticas y de liderazgo hacia el dinámico campo de la Ciencia de Datos.
 
