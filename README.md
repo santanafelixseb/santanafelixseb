@@ -10,7 +10,7 @@ Data Science is the future of informed decision-making. My background in Operati
 - Predicting trends
 - Making strategic decisions
 
-I bring a unique perspective to Data Science, combining hands-on experience with cutting-edge technologies in Data Analytics.
+I bring a unique perspective to Data Science, combining hands-on experience with relevant analytical skills.
 
 ## Projects
 - **Market Analysis Tool**: Developed a comprehensive tool for analyzing market trends, enabling data-driven investment strategies.
