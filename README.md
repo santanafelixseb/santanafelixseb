@@ -1,5 +1,4 @@
-# Hello there! I'm Felix.
-# Welcome to my GitHub 👨‍💻
+# Hello there! I'm Felix. Welcome to my GitHub 👨‍💻
 
 
 
