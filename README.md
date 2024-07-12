@@ -5,7 +5,7 @@ Con experiencia en Gestión de Operaciones y un sólido historial en la optimiza
 Mi objetivo es aprovechar los datos para descubrir conocimientos, impulsar la estrategia empresarial y crear valor a través de la toma de decisiones informada. Con una base sólida en operaciones y una pasión por los datos, estoy ansioso por contribuir y crecer dentro del emocionante mundo de Data Science!
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools used:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
