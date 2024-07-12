@@ -14,12 +14,11 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 My Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=santanafelixseb&theme=dark&hide_border=false)<br/>
 
 ---
-Feel free to contact me:
-📧 santanafelixseb@gmail.com
+Feel free to contact me 📧 santanafelixseb@gmail.com
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santanafelixseb) 
 
