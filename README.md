@@ -1,4 +1,4 @@
-# Hello there, I'm Felix 👨‍💻 Welcome to my GitHub
+# Hi! I'm Felix 👨‍💻 Welcome to my GitHub
 
 ## About Me
 I'm an Operations Management professional transitioning into the world of Data Science. With an eye for efficiency and a passion for analytics, I'm bridging the gap between operational excellence and data-driven decision making.
