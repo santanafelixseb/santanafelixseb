@@ -26,9 +26,6 @@ I bring a unique perspective to Data Science, combining hands-on experience with
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ## 💻 No-code Tools:
 Airtable, Asana, Slack and Discord integrations, Zapier, IFTTT
----
-# 📊 My Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=santanafelixseb&theme=dark&hide_border=false)<br/>
 
 ---
 Feel free to contact me 📧 santanafelixseb@gmail.com
