@@ -2,7 +2,7 @@
 ## Projects
 - **Market Analysis Tool**: Developed a comprehensive tool for analyzing market trends, enabling data-driven investment strategies.
 - **Trading Bot**: Built a fully-functional trading bot from scratch that leverages machine learning to execute trades based on real-time market data.
-- **Henry Bootcamp Projects**: Developed software encompassing the full range of data life cycles, from extraction all the way to user-consumable dashboards and analytic tools.
+- **Data-centric projects**: Developed software encompassing the full range of data life cycles, from extraction all the way to user-consumable dashboards and analytic tools.
 
 ---
 # 💻 Tech Stack and Tools:
