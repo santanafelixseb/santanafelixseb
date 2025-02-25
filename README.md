@@ -1,14 +1,3 @@
-# Hi! I'm Felix 👨‍💻 Welcome to my GitHub
-
-## About Me
-I'm an Operations Management professional transitioning into the world of Data Science. With an eye for efficiency and a passion for analytics, I'm bridging the gap between operational excellence and data-driven decision making.
-
-## Why Data Science?
-Data Science is the future of informed decision-making. My background in Operations Management has taught me the importance of data in:
-- Streamlining processes
-- Enhancing productivity
-- Predicting trends
-- Making strategic decisions
 
 ## Projects
 - **Market Analysis Tool**: Developed a comprehensive tool for analyzing market trends, enabling data-driven investment strategies.
